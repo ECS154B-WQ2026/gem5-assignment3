@@ -11,7 +11,7 @@
         },
         "homework-resources": {
             "dataSource": "homework-resources",
-            "url": "/workspaces/gem5-assignment-template/workloads/resources.json",
+            "url": "/workspaces/gem5-assignment3/workloads/resources.json",
             "isMongo": false
         }
     }

@@ -23,7 +23,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/matmul-basic/mm-riscv",
+        "url": "file:///workspaces/gem5-assignment3/workloads/matmul-basic/mm-riscv",
         "md5sum": "286c8d5b8b67d04bdbeb72e65bf8c271"
     },
     {
@@ -34,7 +34,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/matmul-basic/mm-x86",
+        "url": "file:///workspaces/gem5-assignment3/workloads/matmul-basic/mm-x86",
         "md5sum": "9b5379a9ef6c169ebb4f15d1dcb592d9"
     },
     {
@@ -45,7 +45,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/matmul-basic/mm-arm",
+        "url": "file:///workspaces/gem5-assignment3/workloads/matmul-basic/mm-arm",
         "md5sum": "2a2862bcc5ee9b6d7a984ef1eced99ab"
     },
     {
@@ -132,7 +132,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/daxpy/daxpy",
+        "url": "file:///workspaces/gem5-assignment3/workloads/daxpy/daxpy",
         "md5sum": "929f9f86b1d84ed009f96d54f8f3e8a0"
     },
     {
@@ -143,7 +143,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/daxpy/daxpy-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/daxpy/daxpy-gem5",
         "md5sum": "223d6b38ef1ece75beaecb825ea2c319"
     },
     {
@@ -186,7 +186,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/queens/queens",
+        "url": "file:///workspaces/gem5-assignment3/workloads/queens/queens",
         "md5sum": "f51e1ea5bd17e55511da80e25be24880"
     },
     {
@@ -216,7 +216,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/bfs/bfs",
+        "url": "file:///workspaces/gem5-assignment3/workloads/bfs/bfs",
         "md5sum": "d6aca9e873ef826f8e89ec19fc2d272f"
     },
     {
@@ -243,7 +243,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/bubble/bubble",
+        "url": "file:///workspaces/gem5-assignment3/workloads/bubble/bubble",
         "md5sum": "54594a19d993c0e21e8206d94ee24fd3"
     },
     {
@@ -301,7 +301,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/matmul/mm-ijk-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/matmul/mm-ijk-gem5",
         "md5sum": "00a154568502a58bf44a1eaebe218635"
     },
     {
@@ -312,7 +312,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/matmul/mm-ikj-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/matmul/mm-ikj-gem5",
         "md5sum": "adb92a0c5bc5ed5a97f4613b64527223"
     },
     {
@@ -323,7 +323,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/matmul/mm-block-ij-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/matmul/mm-block-ij-gem5",
         "md5sum": ""
     },
     {
@@ -334,7 +334,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/matmul/mm-block-ik-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/matmul/mm-block-ik-gem5",
         "md5sum": ""
     },
     {
@@ -345,7 +345,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/matmul/mm-block-jk-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/matmul/mm-block-jk-gem5",
         "md5sum": ""
     },
     {
@@ -451,7 +451,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/array_sum/naive-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/array_sum/naive-gem5",
         "md5sum": "1e0431416f967fedc1271f53cd9bd981"
     },
     {
@@ -462,7 +462,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/array_sum/chunking-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/array_sum/chunking-gem5",
         "md5sum": "687250fbcdad903745f0621fa17a6212"
     },
     {
@@ -473,7 +473,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/array_sum/res-race-opt-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/array_sum/res-race-opt-gem5",
         "md5sum": "fc62d1f1d839e14b36850a9b65c284b6"
     },
     {
@@ -484,7 +484,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/array_sum/chunking-res-race-opt-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/array_sum/chunking-res-race-opt-gem5",
         "md5sum": "z6739b1d29034a7d467ea237baedc394f"
     },
     {
@@ -495,7 +495,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/array_sum/block-race-opt-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/array_sum/block-race-opt-gem5",
         "md5sum": "880d59919521f24c555dddcb9bda673a"
     },
     {
@@ -506,7 +506,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/array_sum/all-opt-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/array_sum/all-opt-gem5",
         "md5sum": "228ef3475113ec3570a34fbbd49d7af8"
     },
     {
@@ -631,7 +631,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/bubble/bubble-x86",
+        "url": "file:///workspaces/gem5-assignment3/workloads/bubble/bubble-x86",
         "md5sum": "e7193d1046f9f9297f4960b8f8a763f1"
     },
     {
@@ -658,7 +658,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/bubble/bubble_hugepages-fs",
+        "url": "file:///workspaces/gem5-assignment3/workloads/bubble/bubble_hugepages-fs",
         "md5sum": "bb9001c891985f8f31874a201b0a0f27"
     },
     {
@@ -701,7 +701,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/bubble/bubble-fs",
+        "url": "file:///workspaces/gem5-assignment3/workloads/bubble/bubble-fs",
         "md5sum": "d02f976864d88785dd79c4a5969eeb62"
     },
     {
@@ -744,7 +744,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/bfs/bfs-x86",
+        "url": "file:///workspaces/gem5-assignment3/workloads/bfs/bfs-x86",
         "md5sum": "72530a1a9a2a45be6ee3e590dcdfa0cb"
     },
     {
@@ -771,7 +771,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/bfs/bfs-fs",
+        "url": "file:///workspaces/gem5-assignment3/workloads/bfs/bfs-fs",
         "md5sum": "2ccff54f47f87f50d7f86641c998d366"
     },
     {
@@ -814,7 +814,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/bfs/bfs_hugepages-fs",
+        "url": "file:///workspaces/gem5-assignment3/workloads/bfs/bfs_hugepages-fs",
         "md5sum": "e5018d8ea94a75385581c5747b076d50"
     },
     {
@@ -857,7 +857,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/matmul-basic/mm-fs",
+        "url": "file:///workspaces/gem5-assignment3/workloads/matmul-basic/mm-fs",
         "md5sum": "e6dae88fb7176bf2b9b3870454e6740e"
     },
     {
@@ -900,7 +900,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/matmul/mm-block-ik-x86-gem5",
+        "url": "file:///workspaces/gem5-assignment3/workloads/matmul/mm-block-ik-x86-gem5",
         "md5sum": "3b3ada0fbfd28e282f9db64987696b6a"
     },
     {
@@ -932,7 +932,7 @@
         "gem5_versions": [
             "24.1"
         ],
-        "url": "file:///workspaces/gem5-assignment-template/workloads/matmul/mm_block_ik-fs",
+        "url": "file:///workspaces/gem5-assignment3/workloads/matmul/mm_block_ik-fs",
         "md5sum": "035572d6ce67e950de940f1c569ff5d0"
     },
     {
