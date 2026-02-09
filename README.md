@@ -23,7 +23,7 @@ Adopted for ECS 154B, Winter 2026.
   - [Step II: Get preliminary data on the instruction mix](#step-ii-get-preliminary-data-on-the-instruction-mix)
   - [Step III: Developing and running the experiments](#step-iii-developing-and-running-the-experiments)
   - [Research question:](#research-question-1)
-  - [Next steps (required 201A, extra credit 154B):](#next-steps-required-201a-extra-credit-154b)
+  - [Next steps (Optional):](#next-steps-optional)
 - [Submission](#submission)
   - [Explanation of how to use your script](#explanation-of-how-to-use-your-script)
 - [Grading](#grading)
@@ -261,7 +261,7 @@ Do you think only looking at the instruction mix gathered from [Step I](#step-i-
 
 **NOTE**: Make sure to keep the simulation output for all of your simulation runs for your later analyses.
 
-### Next steps (required 201A, extra credit 154B):
+### Next steps (Optional):
 
 Answer the following questions in your report.
 Include information on how you designed the experiment, what you measured, and the analyzed the data.
